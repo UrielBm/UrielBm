@@ -1,8 +1,4 @@
-# Hi there 👋, I'm Uriel but you can call me Uri.
-<img style="width: 16rem; height: 16rem; border-radius: 50%;" src="https://scontent.fmex19-1.fna.fbcdn.net/v/t1.6435-0/p180x540/204908290_4134004453354795_2470857282902321408_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeFaDthAWS0pFbOqiivrSjgK7jHyy8TkoiXuMfLLxOSiJeAB9qWgB7xWqX2XwVrngaTeHA599oAgTsfLvuL7eDpT&_nc_ohc=LDoyja17u7kAX-ieLcy&_nc_ht=scontent.fmex19-1.fna&tp=6&oh=5c0e4824fa7c7e3740c852c88a24e0d1&oe=60DD7D37" alt="my picture" /> 
-
-Hey body, my name is Uriel Benítez Medina, I'm a systems engineer, you can check my profile here, Thank you.
-
-## What's my stack Technology?
-
-My favorite Stack is MERN. 
+<h2> Hi, I'm Uriel but you can call me Uri! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
