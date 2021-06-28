@@ -4,6 +4,9 @@
 <p><em>I'm a student of <a href="https://courseit.io/">Courseit</a><img src="https://media4.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif?cid=ecf05e47it5n1fji4guo1x14otlyhq27jjjnwvvzkacf6jd1&rid=giphy.gif&ct=s" width="60">
  
 [![Twitter: @CouthUriel](https://img.shields.io/twitter/follow/CouthUriel?style=social)](https://twitter.com/CouthUriel)
+ <a href="https://www.linkedin.com/in/uriel-ben%C3%ADtez-medina-65865615a/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+  </a>
 [![GitHub UrielBm](https://img.shields.io/github/followers/UrielBm?label=follow&style=social)](https://github.com/UrielBm)
 
 ### <img src="https://media3.giphy.com/media/1dJmX84xPtM3KLZ8Th/giphy.gif?cid=ecf05e47d49eot667lq2gli1w85gi083ujcn2pif5dpfu8sw&rid=giphy.gif&ct=s" width="50"> A little more about me... 
