@@ -41,7 +41,7 @@ const Uri = {
 - LandingPage Gatsby [Gatsby-DatoCms](https://azucena-depilacion-laser.vercel.app/)
 <h2>💻 My github stats 💻</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UrielBm&theme=merko)
- [![UrielBm's GitHub stats](https://github-readme-stats.vercel.app/api?username=UrielBm&theme=merko)](https://github.com/UrielBm/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UrielBm&theme=dracula)
+ ![UrielBm's GitHub stats](https://github-readme-stats.vercel.app/api?username=UrielBm&theme=dracula)
  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
