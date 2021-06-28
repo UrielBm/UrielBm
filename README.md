@@ -3,7 +3,7 @@
 <p><em>I'm a Systems engineer at <a href="http://www.itpachuca.edu.mx/">Pachuca Institute of Technology</a><img src="https://media3.giphy.com/media/PdrdfTTrlANszSLYNA/giphy.gif?cid=ecf05e475s9xlicj043n135dvj0u9fp8uepp2ybf60fbhbt0&rid=giphy.gif&ct=s" width="45">
   <p><em>I'm a student of <a href="https://courseit.io/">Courseit</a><img src="https://media4.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif?cid=ecf05e47it5n1fji4guo1x14otlyhq27jjjnwvvzkacf6jd1&rid=giphy.gif&ct=s" width="60">
  
-### <img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47f5gl6f7fz0r4du666zq07d6jej6vcgwk6dzqlp8u&rid=giphy.gif&ct=g" width="50"> A little more about me... 
+### <img src="https://media3.giphy.com/media/1dJmX84xPtM3KLZ8Th/giphy.gif?cid=ecf05e47d49eot667lq2gli1w85gi083ujcn2pif5dpfu8sw&rid=giphy.gif&ct=s" width="50"> A little more about me... 
   
 ```javascript
 const Uri = {
