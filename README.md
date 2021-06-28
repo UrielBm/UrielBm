@@ -32,5 +32,6 @@ const Uri = {
 };
 ```
 ## my favorites projects
-    *React-Chat-app with Socket.io [React-chat](https://react-chat-iota.vercel.app/auth/login) 
+    - Elemento de lista 1
+    -React-Chat-app with Socket.io [React-chat](https://react-chat-iota.vercel.app/auth/login) 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
