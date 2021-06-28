@@ -4,7 +4,7 @@
   <p><em>I'm a student of <a href="https://courseit.io/">Courseit</a><img src="https://media4.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif?cid=ecf05e47it5n1fji4guo1x14otlyhq27jjjnwvvzkacf6jd1&rid=giphy.gif&ct=s" width="60">
  
 [![Twitter: @CouthUriel](https://img.shields.io/twitter/follow/CouthUriel?style=social)](https://twitter.com/CouthUriel)
-[![Linkedin: Uriel Benítez Medina](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://img.shields.io/badge?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/uriel-ben%C3%ADtez-medina-65865615a/)
+[![Linkedin: uriel-benitez-medina](https://img.shields.io/badge/-uriel-benítez-medina-65865615a-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uriel-benítez-medina-65865615a/)](https://www.linkedin.com/in/uriel-benítez-medina-65865615a/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 ### <img src="https://media3.giphy.com/media/1dJmX84xPtM3KLZ8Th/giphy.gif?cid=ecf05e47d49eot667lq2gli1w85gi083ujcn2pif5dpfu8sw&rid=giphy.gif&ct=s" width="50"> A little more about me... 
