@@ -35,9 +35,9 @@ const Uri = {
     funFact: "I like Js because i always forget ;"
 };
 ```
-## my favorites projects
+### my favorites projects
 - Itp Promote courses [Next.js-promote Courses](https://itp-cursos.vercel.app/)
 - React-Chat-app with Socket.io [React-chat](https://react-chat-iota.vercel.app/auth/login) 
 - LandingPage Gatsby [Gatsby-DatoCms](https://azucena-depilacion-laser.vercel.app/)
-
+<h2>💻 My github stats 💻</h2>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
