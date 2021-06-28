@@ -21,7 +21,7 @@ const Uri = {
         databases: ["mongo", "MySql"],
         misc: ["Firebase", "Socket.IO", "php"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Serverless Architecture", "Single page applications"],
     currentProject: "I am developing a lot proyects to practice my skills",
     funFact: "i always forget how to use ; ;)"
 };
