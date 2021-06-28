@@ -5,26 +5,24 @@
  ### <img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47f5gl6f7fz0r4du666zq07d6jej6vcgwk6dzqlp8u&rid=giphy.gif&ct=g" width="50"> A little more about me... 
   
 ```javascript
-const anmol = {
+const Uri = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "php", "html", "css"],
+    askMeAbout: ["web dev", "tech", "videogames", "trips"],
     technologies: {
-        mobileApp: ["Android App"],
         frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            js: ["React", "Vue"],
+            css: ["Saas", "styled-components", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
+            js: ["node", "express"],
+            php: ["Laravel"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: ["mongo", "MySql"],
+        misc: ["Firebase", "Socket.IO", "php"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentProject: "I am developing a lot proyects to practice my skills",
+    funFact: "i always forget how to use ; ;)"
 };
 ```
