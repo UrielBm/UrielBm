@@ -23,7 +23,8 @@ const Uri = {
         misc: ["Firebase", "Socket.IO","Redux","api Context" ,"php"]
     },
     architecture: ["Serverless Architecture", "Single page applications"],
-    currentProject: "I am developing a lot proyects to practice my skills",
+    currently Learning: "I'm learning React Native",
+    currentProject: "I'm developing a lot proyects to practice my skills",
     funFact: "I like Js because i always forget ;"
 };
 ```
