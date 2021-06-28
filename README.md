@@ -19,10 +19,10 @@ const Uri = {
             php: ["Laravel"]
         },
         databases: ["mongo", "MySql"],
-        misc: ["Firebase", "Socket.IO", "php"]
+        misc: ["Firebase", "Socket.IO","Redux","api Context" ,"php"]
     },
     architecture: ["Serverless Architecture", "Single page applications"],
     currentProject: "I am developing a lot proyects to practice my skills",
-    funFact: "i always forget how to use ; ;)"
+    funFact: "I like Js because i always forget ;"
 };
 ```
