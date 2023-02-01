@@ -26,7 +26,7 @@ const Uri = {
             js: ["node", "express"],
             php: ["Laravel"]
         },
-        databases: ["mongo", "MySql"],
+        databases: ["mongo", "MySql", "PostgreSQL"],
         misc: ["Firebase", "Socket.IO","Redux","api Context" ,"php"]
     },
     architecture: ["Serverless Architecture", "Single page applications"],
@@ -36,9 +36,9 @@ const Uri = {
 };
 ```
 ## my favorites projects
-- Itp Promote courses [Next.js-promote Courses](https://itp-cursos.vercel.app/)
-- React-Chat-app with Socket.io [React-chat](https://react-chat-iota.vercel.app/auth/login) 
-- LandingPage Gatsby [Gatsby-DatoCms](https://azucena-depilacion-laser.vercel.app/)
+- Encuestados Game [Quizgame Encuestados](https://quizgameuri.vercel.app/)
+- React-Chat-app with Socket.io [React-chat](https://app-chat-react.vercel.app/) 
+- Space-invaders Game [Space-invaders game](https://space-invaders-front.vercel.app/)
 <h2>💻 My github stats 💻</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UrielBm&theme=dracula)
